@@ -1,2 +1,2 @@
 # js-sandbox
-A sandbox for JS practice projects
+A sandbox for Jonas Schmedtmann's JavaScript course projects.
